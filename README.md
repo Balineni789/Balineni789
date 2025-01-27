@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **E-Commerce**
 
-- 🌱 I’m currently learning **React Tailwand Bootstrap**
+- 🌱 I’m currently learning **Data Base**
 
 - 🤝 I’m looking for help with **Back_End**
 
